@@ -1,10 +1,10 @@
-title: Alphanumeriques
-author: Copyright 2025, Alphanumeriques LLC
+title:
+author: Alphanumeriques LLC | Atlanta, GA, USA
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Atlanta, GA, USA
+  contact@alphanumeriques.com
 
 # Build settings
 
